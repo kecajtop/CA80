@@ -4,6 +4,14 @@
 
   (paper "A2")
 
+  (title_block
+    (title "MIC290-CA80")
+    (date "2023-10-18")
+    (rev "V1.0")
+    (company "N/A")
+    (comment 1 "Author: JB")
+  )
+
   (lib_symbols
     (symbol "4xxx:4518" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -7.62 8.89 0)
